@@ -1,2 +1,2 @@
 # openmalaria.containers
-Containers for different versions of the openMalaria software.
+Singularity containers for different versions of the openMalaria software.
